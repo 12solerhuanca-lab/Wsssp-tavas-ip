@@ -8,4 +8,5 @@ WebSocket server project for Tavas Peru.
 2. Run:
 
 npm install
+
 npm start
